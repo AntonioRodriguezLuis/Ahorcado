@@ -1,2 +1,2 @@
-# JavaFXTemplate
-Plantilla para nuevos proyectos JavaFX con Maven
+# Ahorcado
+Implementar en Java utilizando el framework JavaFX el juego del Ahorcado.
